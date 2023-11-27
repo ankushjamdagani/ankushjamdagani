@@ -1,6 +1,6 @@
 # Greetings, fellow code wranglers! 🚀
 
-👨‍💻 Senior Sorcerer of Software Engineering | 7+ Years XP | Frontend Alchemist 🧙‍♂️
+👨‍💻 Sorcerer of Software Engineering | 7+ Years XP | Frontend Alchemist 🧙‍♂️
 
 ```jsx
 import { ReactJS } from 'myTechStack';
